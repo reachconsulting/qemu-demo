@@ -20,6 +20,7 @@ http://wiki.laptop.org/go/Talk:Using_QEMU_on_Windows
 http://www.keysolutions.com/blogs/kenyee.nsf/d6plinks/KKYE-7Z2QS9<br>
 http://linuxclues.blogspot.se/2007/06/installing-qemu-on-windows-vista.html
 ### TAP win executable
+https://github.com/reachplayground/qemu-demo/blob/master/wintap/tap-windows.exe
 
 
 
